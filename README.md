@@ -7,7 +7,7 @@ I am a Fresh Graduate of Information Systems from the Faculty of Engineering and
 * 🏫 Currently studying at Multimedia Nusantara University </li>
 * 🧠  I'm learning I'm currently studying Data Analytics, Data Visualization, and Enterprise Resource Planning</li>
 * 🏠 Tangerang City, Banten</li>
-* 📫 How to reach me: <a href = "https://www.linkedin.com/in/muhamad-calvin-syah-putra-42203125a/"> LinkedIn </a> or <a href="mailto:muhamadcalvin1507@gmail.com">send me an E-mail!</a></li>
+* 📫 How to reach me: <a href = "https://www.linkedin.com/in/muhamad-calvin-syah-putra-42203125a/"> LinkedIn </a> or <a href="mailto:calvinsyahputra1515@gmail.com">send me an E-mail!</a></li>
 
 ### Skills
 
