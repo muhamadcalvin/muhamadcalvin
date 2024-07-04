@@ -2,7 +2,7 @@
 ==========================================
 <br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MuhamadCalvinSyahPutra.repoName) [![GitHub followers](https://img.shields.io/github/followers/MuhamadCalvinSyahPutra.svg?style=social&label=Follow)](https://github.com/MuhamadCalvinSyahPutra?tab=followers)<br/>
 
-I am a 6th semester student majoring in information systems at Multimedia Nusantara University. During college, I learned and developed my skills such as studying Enterprise Resource Planning, an integrated system used by companies to integrate all company resources using SAP logon. I also developed skills in visualizing data by learning some basic programming languages such as Python, R, and SQL using Tableau, Jupyter Notebook, and Microsoft Excel. Even though I have minimal experience in this field, I am interested and willing to continue learning and adapting and gaining experience to improve my skills.
+I am a Fresh Graduate of Information Systems from the Faculty of Engineering and Informatics, Multimedia Nusantara University. During college, I learned and developed my skills such as studying Enterprise Resource Planning, an integrated system used by companies to integrate all company resources using SAP logon. I also developed skills in visualizing data by learning some basic programming languages such as Python, R, and SQL using Tableau, Jupyter Notebook, and Microsoft Excel. Even though I have minimal experience in this field, I am interested and willing to continue learning and adapting and gaining experience to improve my skills.
 
 * 🏫 Currently studying at Multimedia Nusantara University </li>
 * 🧠  I'm learning I'm currently studying Data Analytics, Data Visualization, and Enterprise Resource Planning</li>
