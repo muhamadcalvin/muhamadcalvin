@@ -2,12 +2,13 @@
 ==========================================
 <br>![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MuhamadCalvinSyahPutra.repoName) [![GitHub followers](https://img.shields.io/github/followers/MuhamadCalvinSyahPutra.svg?style=social&label=Follow)](https://github.com/MuhamadCalvinSyahPutra?tab=followers)<br/>
 
-I am a Fresh Graduate of Information Systems from the Faculty of Engineering and Informatics, Multimedia Nusantara University. During college, I learned and developed my skills such as studying Enterprise Resource Planning, an integrated system used by companies to integrate all company resources using SAP logon. I also developed skills in visualizing data by learning some basic programming languages such as Python, R, and SQL using Tableau, Jupyter Notebook, and Microsoft Excel. Even though I have minimal experience in this field, I am interested and willing to continue learning and adapting and gaining experience to improve my skills.
+I am a Fresh Graduate of Information Systems from the Faculty of Engineering and Informatics, Multimedia Nusantara University. During college, I learned and developed my skills such as studying Enterprise Resource Planning, I graduated with a GPA of 3.55. I have a strong interest in technology and am eager to apply my skills in various IT fields. I also developed my ability in visualizing data by learning some basic programming languages such as Python, R, and SQL by using Tableau, Jupyter Notebook, and Microsoft Excel. I have an internship experience as a data analyst and web developer at the Ministry of Finance of the Republic of Indonesia for approximately 7 months. Although I have minimal experience in this field, I am interested and want to continue learning and adapting and gaining experience to improve my skills.
 
-* 🏫 Graduates of information systems education at Universitas Multimedia Nusantara </li>
-* 🧠 I'm learning I'm currently studying Data Analytics, Data Visualization, and Enterprise Resource Planning</li>
+
+* 🏫 Graduate of information systems education with a GPA of 3.55 at Multimedia Nusantara University </li>
+* 🧠 I'm learning I'm currently studying Data Analytics, Data Visualization, Web development, Network administratoretwork administration and Enterprise Resource Planning</li>
 * 🏠 Tangerang City, Banten</li>
-* 📫 How to reach me: <a href = "https://www.linkedin.com/in/muhamad-calvin-syah-putra-42203125a/"> LinkedIn </a> or <a href="mailto:calvinsyahputra1515@gmail.com">send me an E-mail!</a></li>
+* 📫 How to reach me: <a href = "https://www.linkedin.com/in/muhamad-calvin-syah-putra-42203125a/"> LinkedIn </a> or <a href="mailto:calvinsyahputra1507@gmail.com">send me an E-mail!</a></li>
 
 ### Skills
 
